@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.SnaptAll" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#6554FF</item>
+        <item name="colorPrimaryVariant">#4838D1</item>
+        <item name="colorSecondary">#00C7F2</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#07111F</item>
+        <item name="android:navigationBarColor">#07111F</item>
+    </style>
+</resources>
